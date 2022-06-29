@@ -1,0 +1,32 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(runMain scalashop.ScalaShop, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / runMain[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 6 Scala sources to /Users/juanfco/Documents/latex/FundProFunConc/Ejemplos Curso/Taller 5 - Plantilla/target/scala-2.13/classes ...[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/juanfco/Documents/latex/FundProFunConc/Ejemplos Curso/Taller 5 - Plantilla/src/main/scala/scalashop/PhotoCanvas.scala:59:67: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `applyFilter`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def applyFilter(filterName: String, numTasks: Int, radius: Int) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                  ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/juanfco/Documents/latex/FundProFunConc/Ejemplos Curso/Taller 5 - Plantilla/src/main/scala/scalashop/ScalaShop.scala:48:43: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `actionPerformed`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m      def actionPerformed(e: ActionEvent) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                          ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/juanfco/Documents/latex/FundProFunConc/Ejemplos Curso/Taller 5 - Plantilla/src/main/scala/scalashop/ScalaShop.scala:59:43: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `actionPerformed`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m      def actionPerformed(e: ActionEvent) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                          ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/juanfco/Documents/latex/FundProFunConc/Ejemplos Curso/Taller 5 - Plantilla/src/main/scala/scalashop/ScalaShop.scala:74:43: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `actionPerformed`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m      def actionPerformed(e: ActionEvent) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                          ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/juanfco/Documents/latex/FundProFunConc/Ejemplos Curso/Taller 5 - Plantilla/src/main/scala/scalashop/ScalaShop.scala:84:43: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `actionPerformed`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m      def actionPerformed(e: ActionEvent) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                          ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/juanfco/Documents/latex/FundProFunConc/Ejemplos Curso/Taller 5 - Plantilla/src/main/scala/scalashop/ScalaShop.scala:95:43: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `actionPerformed`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m      def actionPerformed(e: ActionEvent) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                          ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/juanfco/Documents/latex/FundProFunConc/Ejemplos Curso/Taller 5 - Plantilla/src/main/scala/scalashop/ScalaShop.scala:112:44: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `updateInformationBox`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m    def updateInformationBox(time: Double) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/juanfco/Documents/latex/FundProFunConc/Ejemplos Curso/Taller 5 - Plantilla/src/main/scala/scalashop/ScalaShop.scala:134:33: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `main`'s return type[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def main(args: Array[String]) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m8 warnings found[0m
+[0m[[0m[0minfo[0m] [0m[0mdone compiling[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 9 s, completed 27/05/2022, 9:03:52 p. m.[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m

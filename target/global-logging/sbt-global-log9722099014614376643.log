@@ -1,0 +1,13 @@
+[debug] > Exec(runMain scalashop.ScalaShop, None, None)
+[debug] Evaluating tasks: Compile / runMain
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 3 Scala sources to C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Scala source to C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes ...
+[warn] C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\src\main\scala\scalashop\PhotoCanvas.scala:59:67: procedure syntax is deprecated: instead, add `: Unit =` to explicitly declare `applyFilter`'s return type
+[warn]   def applyFilter(filterName: String, numTasks: Int, radius: Int) {
+[warn]                                                                   ^
+[warn] one warning found
+[info] done compiling
+[success] Total time: 39 s, completed 28/06/2022, 9:56:36 p. m.
+[debug] > Exec(idea-shell, None, None)

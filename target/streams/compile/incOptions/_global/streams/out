@@ -1,0 +1,26 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] 	DesenfoqueHorizontal$.class
+[debug] 	package.class
+[debug] 	EjecutorDesenfoqueHorizontal$.class
+[debug] 	package$Img.class
+[debug] 	package$.class
+[debug] 	DesenfoqueHorizontal.class
+[debug] 	EjecutorDesenfoqueHorizontal.class
+[debug] We backup class files:
+[debug] 	DesenfoqueHorizontal$.class
+[debug] 	package.class
+[debug] 	EjecutorDesenfoqueHorizontal$.class
+[debug] 	package$Img.class
+[debug] 	package$.class
+[debug] 	DesenfoqueHorizontal.class
+[debug] 	EjecutorDesenfoqueHorizontal.class
+[debug] Registering generated classes:
+[debug] 	DesenfoqueHorizontal$.class
+[debug] 	package.class
+[debug] 	EjecutorDesenfoqueHorizontal$.class
+[debug] 	package$Img.class
+[debug] 	package$.class
+[debug] 	DesenfoqueHorizontal.class
+[debug] 	EjecutorDesenfoqueHorizontal.class
+[debug] Removing the temporary directory used for backing up class files: C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes.bak

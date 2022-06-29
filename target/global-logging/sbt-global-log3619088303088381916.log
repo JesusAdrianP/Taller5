@@ -1,0 +1,8 @@
+[debug] > Exec(runMain scalashop.ScalaShop, None, None)
+[debug] Evaluating tasks: Compile / runMain
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Forcing garbage collection...
+[success] Total time: 26 s, completed 29/06/2022, 10:40:48 a. m.
+[debug] > Exec(idea-shell, None, None)

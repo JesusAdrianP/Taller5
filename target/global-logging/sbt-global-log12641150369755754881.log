@@ -1,0 +1,5 @@
+[debug] > Exec(runMain scalashop.ScalaShop, None, None)
+[debug] Evaluating tasks: Compile / runMain
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[success] Total time: 5 s, completed 28/06/2022, 12:27:03 p. m.
+[debug] > Exec(idea-shell, None, None)

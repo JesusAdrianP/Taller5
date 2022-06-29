@@ -1,0 +1,61 @@
+[debug] Packaging C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\taller-5-problema-fuertemente-paralelo_2.13-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	.DS_Store
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\.DS_Store
+[debug] 	common
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\common
+[debug] 	common\package$.class
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\common\package$.class
+[debug] 	common\package$DefaultTaskScheduler$$anon$1.class
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\common\package$DefaultTaskScheduler$$anon$1.class
+[debug] 	common\package$DefaultTaskScheduler.class
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\common\package$DefaultTaskScheduler.class
+[debug] 	common\package$TaskScheduler.class
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\common\package$TaskScheduler.class
+[debug] 	common\package.class
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\common\package.class
+[debug] 	scalashop
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\scalashop
+[debug] 	scalashop\DesenfoqueHorizontal$.class
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\scalashop\DesenfoqueHorizontal$.class
+[debug] 	scalashop\DesenfoqueHorizontal.class
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\scalashop\DesenfoqueHorizontal.class
+[debug] 	scalashop\DesenfoqueVertical$.class
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\scalashop\DesenfoqueVertical$.class
+[debug] 	scalashop\DesenfoqueVertical.class
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\scalashop\DesenfoqueVertical.class
+[debug] 	scalashop\EjecutorDesenfoqueHorizontal$.class
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\scalashop\EjecutorDesenfoqueHorizontal$.class
+[debug] 	scalashop\EjecutorDesenfoqueHorizontal.class
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\scalashop\EjecutorDesenfoqueHorizontal.class
+[debug] 	scalashop\EjecutorDesenfoqueVertical$.class
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\scalashop\EjecutorDesenfoqueVertical$.class
+[debug] 	scalashop\EjecutorDesenfoqueVertical.class
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\scalashop\EjecutorDesenfoqueVertical.class
+[debug] 	scalashop\package$.class
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\scalashop\package$.class
+[debug] 	scalashop\package$Img.class
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\scalashop\package$Img.class
+[debug] 	scalashop\package.class
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\scalashop\package.class
+[debug] 	scalashop\PhotoCanvas.class
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\scalashop\PhotoCanvas.class
+[debug] 	scalashop\scala.jpg
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\scalashop\scala.jpg
+[debug] 	scalashop\ScalaShop$.class
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\scalashop\ScalaShop$.class
+[debug] 	scalashop\ScalaShop$ScalaShopFrame$$anon$1.class
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\scalashop\ScalaShop$ScalaShopFrame$$anon$1.class
+[debug] 	scalashop\ScalaShop$ScalaShopFrame$$anon$2.class
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\scalashop\ScalaShop$ScalaShopFrame$$anon$2.class
+[debug] 	scalashop\ScalaShop$ScalaShopFrame$$anon$3.class
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\scalashop\ScalaShop$ScalaShopFrame$$anon$3.class
+[debug] 	scalashop\ScalaShop$ScalaShopFrame$$anon$4.class
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\scalashop\ScalaShop$ScalaShopFrame$$anon$4.class
+[debug] 	scalashop\ScalaShop$ScalaShopFrame$$anon$5.class
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\scalashop\ScalaShop$ScalaShopFrame$$anon$5.class
+[debug] 	scalashop\ScalaShop$ScalaShopFrame.class
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\scalashop\ScalaShop$ScalaShopFrame.class
+[debug] 	scalashop\ScalaShop.class
+[debug] 	  C:\Users\Jesus\Desktop\Copia de Taller 5 - Plantilla\target\scala-2.13\classes\scalashop\ScalaShop.class
+[debug] Done packaging.
